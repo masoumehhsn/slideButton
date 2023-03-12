@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>DragBtn.qml</file>
-        <file>DropBtn.qml</file>
-    </qresource>
-</RCC>
