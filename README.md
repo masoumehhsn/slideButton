@@ -1,5 +1,5 @@
 # slideButton
-[![Build Status](https://github.com/masoumehhsn/slideButton/tree/main/.github/workflows/main.yml/badge.svg)](https://github.com/masoumehhsn/slideButton/actions)
+[![Build Status](https://github.com/masoumehhsn/slideButton/actions/workflows/main.yml/badge.svg)](https://github.com/masoumehhsn/slideButton/actions)
 
 ![alt text](https://github.com/masoomehsn/slideButton/blob/main/slideButton/ScreenshotSlideButton1.png)
 
